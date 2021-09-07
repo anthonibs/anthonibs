@@ -1,4 +1,5 @@
-### Opa, Eu sou Anthoni Broering dos Santos, mas pode me chamar de toni
+### Opa, Eu me chamo Anthoni, mas pode me chamar de toni.
+Meus hobbies favoritos é assistir animes, estudar bastante, ler uns livrinhos aí... de sci-fi. Sou aficionado pelo mundo geek e também faço uns investimentos. 
 
  <div>
   <a href="https://github.com/anthonibs">
