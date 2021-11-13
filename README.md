@@ -3,8 +3,8 @@ Meus hobbies favoritos é assistir animes, estudar bastante, ler uns livrinhos a
 
  <div>
   <a href="https://github.com/anthonibs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
