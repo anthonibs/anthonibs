@@ -20,9 +20,9 @@ Meus hobbies favoritos é assistir animes, estudar bastante, ler uns livrinhos a
   ##
   
  <div>
-  <a href="https://www.instagram.com/anthoni.bs/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Anthonibs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/anthoni-broering-dos-santos-483774119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/anthoni.bs/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/Anthonibs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/anthoni-broering-dos-santos-483774119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    
  
   ![Snake animation](https://github.com/anthonibs/anthonibs/blob/output/github-contribution-grid-snake.svg)
