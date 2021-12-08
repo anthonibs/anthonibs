@@ -1,17 +1,28 @@
 ### Opa, Eu me chamo Anthoni, mas pode me chamar de toni.
-Meus hobbies favoritos é assistir animes, estudar bastante, ler uns livrinhos aí... de sci-fi. Sou aficionado pelo mundo geek e também faço uns investimentos. 
+<p>Meus hobbies favoritos é assistir animes, estudar bastante, ler uns livrinhos aí... de sci-fi. Sou aficionado pelo mundo geek e também faço uns investimentos. Fã boy de Narutinho 🥰</p>
 
-<!-- <div style="display: inline_block"><br> -->
-<!--  <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">📌</g-emoji> Tenho experiência em:</p> -->
+<br>
+
+<div align="center">
+  <img alt="Luta do Naruto vs Pain" height="400" width="800" src="https://c.tenor.com/sUQppDbb5_QAAAAC/pain-naruto.gif">
+<!--   <img alt="Luta do Naruto vs Pain" height="450" width="800" src="https://giffiles.alphacoders.com/141/141808.gif"> -->
+</div>
+
+#
+<!-- ### -->
+<!-- <div style="display: inline_block">
+ <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">📌</g-emoji> Tenho experiência em:</p>
  
-<!--   <img align="center" alt="Anthoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-<!--   <img align="center" alt="Anthoni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-<!--   <img align="center" alt="Anthoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-<!--   <img align="center" alt="Anthoni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
-<!--   <img align="center" alt="Anthoni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-<!--   <img align="center" alt="Anthoni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!--   <img align="center" alt="Anthoni-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-<!-- </div> -->
+  <img align="center" alt="Anthoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Anthoni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Anthoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Anthoni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Anthoni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Anthoni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Anthoni-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div> -->
+
+<!-- <br> -->
 
 <div style="display: inline_block"><br>
   <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">📚</g-emoji> Estou estudando:</p>
@@ -23,10 +34,12 @@ Meus hobbies favoritos é assistir animes, estudar bastante, ler uns livrinhos a
 <!--   <img align="center" alt="Anthoni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Anthoni-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> --> 
 </div>
- 
+
 # 
  
- <div>
+ <br>
+ 
+ <div align="center">
     <a href="https://github.com/anthonibs"></a>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&layout=compact&langs_count=7&theme=vue-dark"/>
