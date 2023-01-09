@@ -35,29 +35,12 @@
 </div>
   
  
- <br>
- 
- <div align="center">
-    <a href="https://github.com/anthonibs"></a>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&layout=compact&langs_count=7&theme=vue-dark"/>
- </div>
 
- <div>
-   
-  ![Snake animation](https://github.com/anthonibs/anthonibs/blob/output/github-contribution-grid-snake.svg)
-   
- </div>
  
  #
  
  <div>
 
-   <p>
-     <g-emoji class="g-emoji" alias="calling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png">📲</g-emoji> Minhas redes sociais: <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️
-     </g-emoji>
-   </p>
- 
    <a href="https://www.linkedin.com/in/anthoni-broering-dos-santos-483774119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://codepen.io/anthonibs" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
    <a href="https://www.instagram.com/anthoni.bs/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
