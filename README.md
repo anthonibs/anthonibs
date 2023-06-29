@@ -20,17 +20,20 @@
   <img align="center" alt="Logo Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
   <img align="center" alt="Logo do Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Logo do Styled Components" height="60" width="40" src="https://cdn.sanity.io/images/djtlwm1o/production/cd48e3fba521deb47078ea36b7073e2f0e511af7-257x286.png">
+  <br>
+   <img align="center" alt="Anthoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Anthoni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Anthoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+    <img align="center" alt="Anthoni-Sass" height="30" width="40" src="https://camo.githubusercontent.com/587d0f411b348ee05a53c7685b59142e0705ff8d06181d09008438c1a92f1a96/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667">
 </div>
 
 
 <div style="display: inline_block"><br>
   <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">📚</g-emoji> Estou estudando:</p>
-       <img align="center" alt="Anthoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Anthoni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Anthoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+      
 <!-- <img align="center" alt="Anthoni-Gulp" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"> -->
 <!-- <img align="center" alt="Anthoni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-        <img align="center" alt="Anthoni-Sass" height="30" width="40" src="https://camo.githubusercontent.com/587d0f411b348ee05a53c7685b59142e0705ff8d06181d09008438c1a92f1a96/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667">
+     
 
 </div>
 
