@@ -1,4 +1,4 @@
-### O meu nome é Anthoni, mas pode me chamar de Toni.
+### 🛸 O meu nome é Anthoni, mas pode me chamar de Toni.
 <p>Estou começando na área de desenvolvimento frontend. Adoro criar soluções criativas e funcionais. Atualmente estou estudando Análise e Desenvolvimento de Sistemas. As minhas experiências profissionais estão focadas em projetos pessoais, onde uso as tecnologias HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT E STYLED-COMPONENTS. Estou em busca de oportunidades para crescer e desenvolver minhas habilidades em uma equipe de desenvolvimento web.</p>
   
 <p>Sou dedicado, motivado e trabalho bem em equipe. Minha meta é continuar aprendendo e crescer profissionalmente como desenvolvedor web.</p>
@@ -12,7 +12,7 @@
 <br>
 
 <div style="display: inline_block">
- <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">📌</g-emoji> Tenho experiência em:</p>
+ <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🚀</g-emoji> Tenho experiência em:</p>
  
 <img align="center" alt="Anthoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Anthoni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
