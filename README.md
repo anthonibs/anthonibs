@@ -1,42 +1,60 @@
+
 ### 🛸 O meu nome é Anthoni, mas pode me chamar de Toni.
 <p>Estou começando na área de desenvolvimento frontend. Adoro criar soluções criativas e funcionais. Atualmente estou estudando Análise e Desenvolvimento de Sistemas. As minhas experiências profissionais estão focadas em projetos pessoais, onde uso as tecnologias HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT E STYLED-COMPONENTS. Estou em busca de oportunidades para crescer e desenvolver minhas habilidades em uma equipe de desenvolvimento web.</p>
+
+# 🛸 Opa e aí, eu me chamo Anthoni! 
+
+Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta do desenvolvimento Front-end, apaixonado por transformar ideias em realidade por meio de código criativo e funcional.
   
-<p>Sou dedicado, motivado e trabalho bem em equipe. Minha meta é continuar aprendendo e crescer profissionalmente como desenvolvedor web.</p>
+-   📚 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos e habilidades em tecnologias como HTML, CSS, JavaScript, TypeScript, React e Styled-Components.
+-   🚀 Tenho experiência com projetos pessoais, onde aplico essas tecnologias para criar soluções práticas e atraentes.
+-   🤝 Sou uma pessoa dedicada, colaborativa e acredito no poder do trabalho em equipe para alcançar resultados excepcionais.
+-   🌱 Meu objetivo é crescer como desenvolvedor web, aprender e enfrentar novos desafios para melhorar minha carreira profissional.
 
-<br>
+Estou aberto(a) a oportunidades de colaboração e parcerias em projetos inovadores.🚀
 
-<div align="center">
-  <img alt="Luta do Naruto versus Pain" height="400" width="800" src="https://c.tenor.com/sUQppDbb5_QAAAAC/pain-naruto.gif">
-</div>
+<hr/>
 
-<br>
+### 🚀 Tenho experiência em:
 
 <div style="display: inline_block">
- <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🚀</g-emoji> Tenho experiência em:</p>
- 
-<img align="center" alt="Anthoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Anthoni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Anthoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Anthoni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Anthoni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Logo Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
-  <img align="center" alt="Logo do Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="center" alt="Logo do Styled Components" height="60" width="40" src="https://cdn.sanity.io/images/djtlwm1o/production/cd48e3fba521deb47078ea36b7073e2f0e511af7-257x286.png">
-   <img align="center" alt="Anthoni-Sass" height="30" width="40" src="https://camo.githubusercontent.com/587d0f411b348ee05a53c7685b59142e0705ff8d06181d09008438c1a92f1a96/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667">
-</div>
-
-
-<div style="display: inline_block"><br>
-  <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">📚</g-emoji> Estou estudando:</p>
-       <img align="center" alt="Anthoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Anthoni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Anthoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+ <img align="center"  alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img  align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" alt="Logo do Styled Components" height="60" width="40" src="https://cdn.sanity.io/images/djtlwm1o/production/cd48e3fba521deb47078ea36b7073e2f0e511af7-257x286.png">
+  <img align="center" alt="HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img  align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img align="center" alt="Logo Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
+ <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+ <img align="center"  alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 </div>
+   
+### 📚 Estou estudando:
 
- <br>
+<div style="display: inline_block">
+ <img  align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> +
+   <img align="center" alt="Testing Library" height="30" width="40" src="https://testing-library.com/img/octopus-64x64.png" />       
+
+</div>
  
- <div>
-   <a href="https://www.linkedin.com/in/anthoni-broering-dos-santos-483774119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.instagram.com/anthoni.bs/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <hr/>
+
+ 
+#### Lista de Projetos:
+
+1.  **CineStream - Explorando o Universo Cinematográfico 🎬**: O CineStream é uma ferramenta web que permite aos usuários pesquisar e descobrir dados sobre filmes e séries. Utilizando tecnologias modernas, como React e TypeScript, esse projeto me permitiu criar uma interface dinâmica e intuitiva, além de integrar uma API externa para fornecer informações atualizadas. 🚧 Atualmente em construção.
+
+2.  **Juicy Bites - Foods🍔**: A Plataforma de Pedidos de Compra é uma aplicação web que oferece aos usuários a possibilidade de navegar por páginas de produtos e realizar o pagamento do pedido na última etapa do processo. Esta documentação tem como objetivo fornecer informações detalhadas sobre a instalação, configuração e uso da plataforma.
+
+4. **E-COMMERCE SNEAKERS STORE 👟**: Neste projeto, desenvolvi uma página funcional simulando uma loja online. Apliquei conhecimentos em criação de banner com passagem de slides, renderização aleatória de categorias de produtos, filtragem por marca e preço, redirecionamento para páginas de produtos e criação de um carrinho de compras funcional.
+
+<hr/>
+
+ <div style="display: inline_block">
+   <a href="https://www.linkedin.com/in/anthoni-broering-dos-santos/" target="_blank"><img align="center"  alt="Testing Library" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"></a>
  </div>
