@@ -1,7 +1,3 @@
-
-### 🛸 O meu nome é Anthoni, mas pode me chamar de Toni.
-<p>Estou começando na área de desenvolvimento frontend. Adoro criar soluções criativas e funcionais. Atualmente estou estudando Análise e Desenvolvimento de Sistemas. As minhas experiências profissionais estão focadas em projetos pessoais, onde uso as tecnologias HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT E STYLED-COMPONENTS. Estou em busca de oportunidades para crescer e desenvolver minhas habilidades em uma equipe de desenvolvimento web.</p>
-
 # 🛸 Opa e aí, eu me chamo Anthoni! 
 
 Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta do desenvolvimento Front-end, apaixonado por transformar ideias em realidade por meio de código criativo e funcional.
