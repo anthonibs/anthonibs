@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta do desenvolvimento Front-end, apaixonado por transformar ideias em realidade por meio de código criativo e funcional.
   
--   📚 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos e habilidades em tecnologias como HTML, CSS, JavaScript, TypeScript, React e Styled-Components.
+-   📚 Formado em Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos e habilidades em tecnologias como HTML, CSS, JavaScript, TypeScript, React e Styled-Components.
 -   🚀 Tenho experiência com projetos pessoais, onde aplico essas tecnologias para criar soluções práticas e atraentes.
 -   🤝 Sou uma pessoa dedicada, colaborativa e acredito no poder do trabalho em equipe para alcançar resultados excepcionais.
 -   🌱 Meu objetivo é crescer como desenvolvedor web, aprender e enfrentar novos desafios para melhorar minha carreira profissional.
