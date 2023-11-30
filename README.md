@@ -42,10 +42,13 @@ Estou aberto(a) a oportunidades de colaboração e parcerias em projetos inovado
 
  
 #### Lista de Projetos:
+1. **Concilia ⛽**: Sistema de monitoramento de postos de combustíveis que coleta dados dos tanques de combustível, como o volume, a temperatura e a pressão. Esses dados são então usados para calcular o volume de combustível disponível nas bombas. O sistema pode ser usado para controlar o estoque de combustível e melhorar a eficiência operacional.
 
-1.  **CineStream - Explorando o Universo Cinematográfico 🎬**: O CineStream é uma ferramenta web que permite aos usuários pesquisar e descobrir dados sobre filmes e séries. Utilizando tecnologias modernas, como React e TypeScript, esse projeto me permitiu criar uma interface dinâmica e intuitiva, além de integrar uma API externa para fornecer informações atualizadas. 🚧 Atualmente em construção.
+Preview: https://concilia.viaflex.com.br/login
 
-2.  **Juicy Bites - Foods🍔**: A Plataforma de Pedidos de Compra é uma aplicação web que oferece aos usuários a possibilidade de navegar por páginas de produtos e realizar o pagamento do pedido na última etapa do processo. Esta documentação tem como objetivo fornecer informações detalhadas sobre a instalação, configuração e uso da plataforma.
+2.  **CineStream - Explorando o Universo Cinematográfico 🎬**: O CineStream é uma ferramenta web que permite aos usuários pesquisar e descobrir dados sobre filmes e séries. Utilizando tecnologias modernas, como React e TypeScript, esse projeto me permitiu criar uma interface dinâmica e intuitiva, além de integrar uma API externa para fornecer informações atualizadas. 🚧 Atualmente em construção.
+
+3.  **Juicy Bites - Foods🍔**: A Plataforma de Pedidos de Compra é uma aplicação web que oferece aos usuários a possibilidade de navegar por páginas de produtos e realizar o pagamento do pedido na última etapa do processo. Esta documentação tem como objetivo fornecer informações detalhadas sobre a instalação, configuração e uso da plataforma.
 
 4. **E-COMMERCE SNEAKERS STORE 👟**: Neste projeto, desenvolvi uma página funcional simulando uma loja online. Apliquei conhecimentos em criação de banner com passagem de slides, renderização aleatória de categorias de produtos, filtragem por marca e preço, redirecionamento para páginas de produtos e criação de um carrinho de compras funcional.
 
