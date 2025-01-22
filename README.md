@@ -1,4 +1,4 @@
-# 🛸 Opa e aí, eu me chamo Anthoni! 
+# 🛸 Hi, my name is Anthoni!
 
 Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta do desenvolvimento Front-end, apaixonado por transformar ideias em realidade por meio de código criativo e funcional.
   
