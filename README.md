@@ -46,11 +46,21 @@ Estou aberto(a) a oportunidades de colaboração e parcerias em projetos inovado
 
 Preview: https://concilia.viaflex.com.br/login
 
-2.  **CineStream - Explorando o Universo Cinematográfico 🎬**: O CineStream é uma ferramenta web que permite aos usuários pesquisar e descobrir dados sobre filmes e séries. Utilizando tecnologias modernas, como React e TypeScript, esse projeto me permitiu criar uma interface dinâmica e intuitiva, além de integrar uma API externa para fornecer informações atualizadas. 🚧 Atualmente em construção.
+2. **Viaflex ⛽**: O site institucional da Viaflex foi desenvolvido para servir como um ponto central de contato e comunicação com nossos clientes atuais e futuros. Ele oferece uma interface moderna, intuitiva e funcional, projetada para atender às necessidades dos usuários e destacar os serviços da empresa.
 
-3.  **Juicy Bites - Foods🍔**: A Plataforma de Pedidos de Compra é uma aplicação web que oferece aos usuários a possibilidade de navegar por páginas de produtos e realizar o pagamento do pedido na última etapa do processo. Esta documentação tem como objetivo fornecer informações detalhadas sobre a instalação, configuração e uso da plataforma.
+**- Funcionalidades Principais**:
+  - Acesso à Plataforma Concilia: Integração direta para navegação e utilização das ferramentas.
+  - Contato com o Suporte: Canal dedicado para assistência rápida e eficiente.
+  - Produtos e Funcionalidades: Apresentação detalhada das soluções e benefícios oferecidos.
+  - Informações Institucionais: Área dedicada para explicar os serviços prestados pela Viaflex.
 
-4. **E-COMMERCE SNEAKERS STORE 👟**: Neste projeto, desenvolvi uma página funcional simulando uma loja online. Apliquei conhecimentos em criação de banner com passagem de slides, renderização aleatória de categorias de produtos, filtragem por marca e preço, redirecionamento para páginas de produtos e criação de um carrinho de compras funcional.
+Preview: [https://concilia.viaflex.com.br/login](https://viaflex.com.br/)
+
+3.  **CineStream - Explorando o Universo Cinematográfico 🎬**: O CineStream é uma ferramenta web que permite aos usuários pesquisar e descobrir dados sobre filmes e séries. Utilizando tecnologias modernas, como React e TypeScript, esse projeto me permitiu criar uma interface dinâmica e intuitiva, além de integrar uma API externa para fornecer informações atualizadas. 🚧 Atualmente em construção.
+
+4.  **Juicy Bites - Foods🍔**: A Plataforma de Pedidos de Compra é uma aplicação web que oferece aos usuários a possibilidade de navegar por páginas de produtos e realizar o pagamento do pedido na última etapa do processo. Esta documentação tem como objetivo fornecer informações detalhadas sobre a instalação, configuração e uso da plataforma.
+
+5. **E-COMMERCE SNEAKERS STORE 👟**: Neste projeto, desenvolvi uma página funcional simulando uma loja online. Apliquei conhecimentos em criação de banner com passagem de slides, renderização aleatória de categorias de produtos, filtragem por marca e preço, redirecionamento para páginas de produtos e criação de um carrinho de compras funcional.
 
 <hr/>
 
