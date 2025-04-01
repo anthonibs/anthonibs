@@ -9,7 +9,7 @@
 </a>  
   
 
-<table><tr><td valign="top" width="70%" border="0">
+<table border="0"><tr><td valign="top" width="70%">
  <h4>Bem-vindo(a) ao meu perfil do GitHub!</h4>
   <br/>  
 
@@ -28,7 +28,7 @@ Como desenvolvedor de interface e designer na plataforma Concilia, meu foco é c
 - Melhoria Contínua: Otimização da experiência do usuário, feedback constante.  
 
 
-</td><td valign="top" width="30%" border="0">
+</td ><td valign="top" width="30%" border="0">
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6d2IzOXd5OHI2YzlzeXlsYTcyOWNseTJxY2JvbmJ1OHRkODViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsWUs30gH6nL28uZdX/giphy.gif" align="center" style="width: 100%" />
