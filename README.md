@@ -9,7 +9,7 @@
 </a>  
   
 
-<table><tr><td valign="top" width="70%" border="0">
+<table border="0"><tr><td valign="top" width="70%" border="0">
  <h4>Bem-vindo(a) ao meu perfil do GitHub!</h4>
   <br/>  
 
