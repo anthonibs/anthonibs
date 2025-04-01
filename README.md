@@ -6,60 +6,39 @@
 <a href="https://linkedin.com/in/anthoni-broering-dos-santos" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-<table border="0"><tr><td valign="top" width="70%" border="0">
- <h4>Bem-vindo(a) ao meu perfil do GitHub!</h4>
-  <br/>  
-
-Como desenvolvedor de interface e designer na plataforma Concilia, meu foco é criar soluções visuais que proporcionem experiências de usuário intuitivas e acessíveis. Minha paixão reside em transformar ideias em interfaces funcionais e esteticamente agradáveis, sempre buscando aprimorar a usabilidade e o design da plataforma.  
-
-  <br/>
-
-- Front-end: React, TypeScript, Material UI, interfaces responsivas.  
-  
-- Integração APIs: Google Maps e outras, enriquecendo funcionalidades.  
-  
-- Design UI: Layouts e componentes visuais, foco na atratividade.  
-
-- Usabilidade/Acessibilidade: Decisões para interface inclusiva e intuitiva.  
-
-- Melhoria Contínua: Otimização da experiência do usuário, feedback constante.  
 
 
-</td><td valign="top" width="30%" border="0">
+<h4>Bem-vindo(a) ao meu perfil do GitHub!</h4>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6d2IzOXd5OHI2YzlzeXlsYTcyOWNseTJxY2JvbmJ1OHRkODViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsWUs30gH6nL28uZdX/giphy.gif" align="center" style="width: 100%" />
-</div>  
+<br/>
 
-</td></tr></table>  
-
-<br/>  
-
-
-<div style="width: 100%">
-  <div style="width: 50%">
-     <h4>Bem-vindo(a) ao meu perfil do GitHub!</h4>
-    <br/>  
-  
+<p align="left"> 
   Como desenvolvedor de interface e designer na plataforma Concilia, meu foco é criar soluções visuais que proporcionem experiências de usuário intuitivas e acessíveis. Minha paixão reside em transformar ideias em interfaces funcionais e esteticamente agradáveis, sempre buscando aprimorar a usabilidade e o design da plataforma.  
-  
-  - Front-end: React, TypeScript, Material UI, interfaces responsivas.    
+</p>
+
+ <br/>
+
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6d2IzOXd5OHI2YzlzeXlsYTcyOWNseTJxY2JvbmJ1OHRkODViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsWUs30gH6nL28uZdX/giphy.gif" min-width="200px" max-width="200px" width="200" align="right"  />
+
+<p align="left"> 
+   - Front-end: React, TypeScript, Material UI, interfaces responsivas. 
+</p>
+
+<p align="left">
   - Integração APIs: Google Maps e outras, enriquecendo funcionalidades.  
+</p>
+
+<p align="left">
   - Design UI: Layouts e componentes visuais, foco na atratividade.  
+</p>
+
+<p align="left">
   - Usabilidade/Acessibilidade: Decisões para interface inclusiva e intuitiva.  
+</p>
+
+<p align="left">
   - Melhoria Contínua: Otimização da experiência do usuário, feedback constante.  
-  </div>
-
-  <div align="center" style="width: 30%">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6d2IzOXd5OHI2YzlzeXlsYTcyOWNseTJxY2JvbmJ1OHRkODViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsWUs30gH6nL28uZdX/giphy.gif" align="center" style="width: 100%" />
-  </div>  
-</div>
-
-
-
-
+</p>
 
 
 <br/>
@@ -86,6 +65,8 @@ Como desenvolvedor de interface e designer na plataforma Concilia, meu foco é c
 </div>  
 
 <br/>  
+<br/>  
+
 
 
 ### Experiência de trabalho
@@ -129,13 +110,8 @@ Projetos em destaque: [Concilia](https://concilia.viaflex.com.br)
 
   <br/>
 
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<p valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" valign="top"  align="left" style="width: 48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&hide_border=true&layout=compact&theme=tokyonight" valign="top" align="right" style="width: 48%" />
+</p>
+ 
