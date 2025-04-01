@@ -1,59 +1,116 @@
-# 🛸 Hi, my name is Anthoni!
-
-Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta do desenvolvimento Front-end, apaixonado por transformar ideias em realidade por meio de código criativo e funcional.
+## 🛸 Hi, my name is Anthoni!  
   
--   📚 Formado em Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos e habilidades em tecnologias como HTML, CSS, JavaScript, TypeScript, React e Styled-Components.
--   🚀 Tenho experiência com projetos pessoais, onde aplico essas tecnologias para criar soluções práticas e atraentes.
--   🤝 Sou uma pessoa dedicada, colaborativa e acredito no poder do trabalho em equipe para alcançar resultados excepcionais.
--   🌱 Meu objetivo é crescer como desenvolvedor web, aprender e enfrentar novos desafios para melhorar minha carreira profissional.
 
-Estou aberto(a) a oportunidades de colaboração e parcerias em projetos inovadores.🚀
+<a href="https://github.com/anthonibs" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/anthoni-broering-dos-santos" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
 
-<hr/>
+<table><tr><td valign="top" width="70%" border="0">
+ <h4>Bem-vindo(a) ao meu perfil do GitHub!</h4>
+  <br/>  
 
-### 🚀 Tenho experiência em:
+Como desenvolvedor de interface e designer na plataforma Concilia, meu foco é criar soluções visuais que proporcionem experiências de usuário intuitivas e acessíveis. Minha paixão reside em transformar ideias em interfaces funcionais e esteticamente agradáveis, sempre buscando aprimorar a usabilidade e o design da plataforma.  
 
-<div style="display: inline_block">
- <img align="center"  alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img  align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img  align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align="center" alt="Logo do Styled Components" height="60" width="40" src="https://cdn.sanity.io/images/djtlwm1o/production/cd48e3fba521deb47078ea36b7073e2f0e511af7-257x286.png">
-  <img align="center" alt="HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img  align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="center" alt="Logo Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
- <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
- <img align="center"  alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <br/>
 
-</div>
-   
-### 📚 Estou estudando:
+- Front-end: React, TypeScript, Material UI, interfaces responsivas.  
+  
+- Integração APIs: Google Maps e outras, enriquecendo funcionalidades.  
+  
+- Design UI: Layouts e componentes visuais, foco na atratividade.  
 
-<div style="display: inline_block">
- <img  align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> +
-   <img align="center" alt="Testing Library" height="30" width="40" src="https://testing-library.com/img/octopus-64x64.png" />       
+- Usabilidade/Acessibilidade: Decisões para interface inclusiva e intuitiva.  
 
-</div>
- 
- <hr/>
+- Melhoria Contínua: Otimização da experiência do usuário, feedback constante.  
 
- 
-#### Lista de Projetos:
-1. **Concilia ⛽**: Sistema de monitoramento de postos de combustíveis que coleta dados dos tanques de combustível, como o volume, a temperatura e a pressão. Esses dados são então usados para calcular o volume de combustível disponível nas bombas. O sistema pode ser usado para controlar o estoque de combustível e melhorar a eficiência operacional.
 
-Preview: https://concilia.viaflex.com.br/login
+</td><td valign="top" width="30%" border="0">
 
-2.  **CineStream - Explorando o Universo Cinematográfico 🎬**: O CineStream é uma ferramenta web que permite aos usuários pesquisar e descobrir dados sobre filmes e séries. Utilizando tecnologias modernas, como React e TypeScript, esse projeto me permitiu criar uma interface dinâmica e intuitiva, além de integrar uma API externa para fornecer informações atualizadas. 🚧 Atualmente em construção.
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6d2IzOXd5OHI2YzlzeXlsYTcyOWNseTJxY2JvbmJ1OHRkODViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsWUs30gH6nL28uZdX/giphy.gif" align="center" style="width: 100%" />
+</div>  
 
-3.  **Juicy Bites - Foods🍔**: A Plataforma de Pedidos de Compra é uma aplicação web que oferece aos usuários a possibilidade de navegar por páginas de produtos e realizar o pagamento do pedido na última etapa do processo. Esta documentação tem como objetivo fornecer informações detalhadas sobre a instalação, configuração e uso da plataforma.
+</td></tr></table>  
 
-4. **E-COMMERCE SNEAKERS STORE 👟**: Neste projeto, desenvolvi uma página funcional simulando uma loja online. Apliquei conhecimentos em criação de banner com passagem de slides, renderização aleatória de categorias de produtos, filtragem por marca e preço, redirecionamento para páginas de produtos e criação de um carrinho de compras funcional.
+<br/>  
 
-<hr/>
 
- <div style="display: inline_block">
-   <a href="https://www.linkedin.com/in/anthoni-broering-dos-santos/" target="_blank"><img align="center"  alt="Testing Library" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"></a>
- </div>
+
+## Linguagens e Ferramentas
+<div>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
+<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/bbaa91df-3cf7-4ad2-bc67-23140b86c067"/>](https://www.linkedin.com/company/viaflex/)
+
+**Software Developer** \
+[**Viaflex**](https://www.linkedin.com/company/viaflex) • Full-time \
+Linguagens & Tecnologias: `Typescript`, `Node`, `Material UI`, `REACT`, `Google API MAPS`, `GULP`,\
+Projetos em destaque: [Viaflex](https://viaflex.com.br/), [Concilia](https://concilia.viaflex.com.br)
+<br/>
+
+<img  align="left" height="94px" width="94px" alt="A2S Software Solutions" src="https://github.com/user-attachments/assets/ecc5ead3-9854-4fcb-ba35-9ffc5112f1ac"/>
+
+**Frot-end Developer (Jr)** \
+**A2S Software Solutions** • Contract \
+Linguagens & Tecnologias: `Typescript`, `Node`, `Google API MAPS`, `JavaScript`, `Material UI`, `REACT`,\
+Projetos em destaque: [Concilia](https://concilia.viaflex.com.br)
+<br/>
+
+
+<br/> <br/> 
+
+
+
+## Github Stats  
+
+<p align="center">
+  <a
+    href="https://github.com/anthonibs"
+    title="Profile Anthonibs"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=anthonibs&column=8&theme=darkhub&no-frame=true&no-bg=true&theme=tokyonight"
+    />
+  </a>
+</p>
+
+  <br/>
+
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+
+</td></tr></table>  
