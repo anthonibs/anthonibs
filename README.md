@@ -111,7 +111,7 @@ Projetos em destaque: [Concilia](https://concilia.viaflex.com.br)
   <br/>
 
 <p valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" valign="top"  align="left" style="width: 48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&hide_border=true&layout=compact&theme=tokyonight" valign="top" align="right" style="width: 48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" valign="top"   style="width: 42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&hide_border=true&layout=compact&theme=tokyonight" valign="top"  style="width: 42%" />
 </p>
  
