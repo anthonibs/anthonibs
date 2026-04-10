@@ -1,50 +1,38 @@
-## 🛸 Hi, my name is Anthoni!  
+## Hi, my name is Anthoni!  
 
 <a href="https://github.com/anthonibs" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/anthoni-broering-dos-santos" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 
+### Bem-vindo(a) ao meu perfil do GitHub!
 
-<h4>Bem-vindo(a) ao meu perfil do GitHub!</h4>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6d2IzOXd5OHI2YzlzeXlsYTcyOWNseTJxY2JvbmJ1OHRkODViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsWUs30gH6nL28uZdX/giphy.gif" width="200" align="right" alt="Developer GIF" />
 
-<br/>
+Sou Desenvolvedor Front-end especializado na arquitetura de aplicações de grande porte, sistemas de design e visualização de dados. Meu foco é transformar regras de negócio complexas em interfaces escaláveis, com alto padrão de código e usabilidade.
 
-<p align="left"> 
-  Como desenvolvedor de interface e designer na plataforma Concilia, meu foco é criar soluções visuais que proporcionem experiências de usuário intuitivas e acessíveis. Minha paixão reside em transformar ideias em interfaces funcionais e esteticamente agradáveis, sempre buscando aprimorar a usabilidade e o design da plataforma.  
-</p>
+**Foco de Atuação:**
+- Arquitetura Front-end: React, TypeScript e estruturação de aplicações escaláveis.
+- Design Systems: Criação, documentação e manutenção de bibliotecas de UI.
+- Performance e Dados: Otimização de renderização para dashboards complexos.
+- UI/UX e Acessibilidade: Construção de layouts responsivos, modernos e inclusivos.
 
- <br/>
+<br clear="both"/>
 
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6d2IzOXd5OHI2YzlzeXlsYTcyOWNseTJxY2JvbmJ1OHRkODViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsWUs30gH6nL28uZdX/giphy.gif" min-width="200px" max-width="200px" width="200" align="right"  />
+---
 
-<p align="left"> 
-   - Front-end: React, TypeScript, Material UI, interfaces responsivas. 
-</p>
+### Projetos e Criações em Destaque
 
-<p align="left">
-  - Integração APIs: Google Maps e outras, enriquecendo funcionalidades.  
-</p>
-
-<p align="left">
-  - Design UI: Layouts e componentes visuais, foco na atratividade.  
-</p>
-
-<p align="left">
-  - Usabilidade/Acessibilidade: Decisões para interface inclusiva e intuitiva.  
-</p>
-
-<p align="left">
-  - Melhoria Contínua: Otimização da experiência do usuário, feedback constante.  
-</p>
+- **[Nexus UI](https://vf-design-system.vercel.app/)**: Autor e desenvolvedor deste Design System. Uma biblioteca de componentes escalável criada do zero, projetada para ser a fundação de aplicações robustas e dashboards de alta densidade de dados.
+- **[abs-icons](https://www.absicons.com/)**: Criador desta biblioteca de ícones otimizada, desenvolvida para garantir consistência visual, leveza e fácil integração estrutural em projetos modernos.
 
 
-<br/>
-<br/>
+---
 
-## Linguagens e Ferramentas
+### Linguagens e Ferramentas
+
 <div>  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="32" /></a>  
   <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="32" /></a>  
@@ -65,53 +53,40 @@
 </div>  
 
 <br/>  
-<br/>  
 
+---
 
+### Experiência de Trabalho
 
-### Experiência de trabalho
+[<img align="left" height="94px" width="94px" alt="Viaflex" src="https://github.com/user-attachments/assets/bbaa91df-3cf7-4ad2-bc67-23140b86c067"/>](https://www.linkedin.com/company/viaflex/)
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+**Software Developer** [**Viaflex**](https://www.linkedin.com/company/viaflex) • Tempo Integral  
+**Tecnologias:** `TypeScript`, `React`, `Material UI`, `Node.js`, `Google Maps API`, `Gulp`  
+**Projetos em destaque:** [Viaflex](https://viaflex.com.br/), [Concilia](https://concilia.viaflex.com.br)  
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/bbaa91df-3cf7-4ad2-bc67-23140b86c067"/>](https://www.linkedin.com/company/viaflex/)
-
-**Software Developer** \
-[**Viaflex**](https://www.linkedin.com/company/viaflex) • Full-time \
-Linguagens & Tecnologias: `Typescript`, `Node`, `Material UI`, `REACT`, `Google API MAPS`, `GULP`,\
-Projetos em destaque: [Viaflex](https://viaflex.com.br/), [Concilia](https://concilia.viaflex.com.br)
+<br clear="both"/>
 <br/>
 
-<img  align="left" height="94px" width="94px" alt="A2S Software Solutions" src="https://github.com/user-attachments/assets/ecc5ead3-9854-4fcb-ba35-9ffc5112f1ac"/>
+<img align="left" height="94px" width="94px" alt="A2S Software Solutions" src="https://github.com/user-attachments/assets/ecc5ead3-9854-4fcb-ba35-9ffc5112f1ac"/>
 
-**Frot-end Developer (Jr)** \
-**A2S Software Solutions** • Contract \
-Linguagens & Tecnologias: `Typescript`, `Node`, `Google API MAPS`, `JavaScript`, `Material UI`, `REACT`,\
-Projetos em destaque: [Concilia](https://concilia.viaflex.com.br)
+**Front-end Developer (Jr)** **A2S Software Solutions** • Contrato  
+**Tecnologias:** `TypeScript`, `React`, `Material UI`, `JavaScript`, `Node.js`, `Google Maps API`  
+**Projetos em destaque:** [Concilia](https://concilia.viaflex.com.br)  
+
+<br clear="both"/>
 <br/>
 
+---
 
-<br/> <br/> 
-
-
-
-## Github Stats  
+### Github Stats  
 
 <p align="center">
-  <a
-    href="https://github.com/anthonibs"
-    title="Profile Anthonibs"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=anthonibs&column=8&theme=darkhub&no-frame=true&no-bg=true&theme=tokyonight"
-    />
+  <a href="https://github.com/anthonibs" title="Profile Anthonibs">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=anthonibs&column=8&theme=darkhub&no-frame=true&no-bg=true&theme=tokyonight" />
   </a>
 </p>
 
-  <br/>
-
-<p valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" valign="top"   style="width: 42%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&hide_border=true&layout=compact&theme=tokyonight" valign="top"  style="width: 42%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonibs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" style="width: 45%; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonibs&hide_border=true&layout=compact&theme=tokyonight" style="width: 45%;" />
 </p>
- 
